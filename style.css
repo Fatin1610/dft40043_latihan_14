@@ -1,6 +1,6 @@
 body {
     background-color:plum;
-    background-image: url('cloud.jpg');
+    background-image: url(image/cloud.jpg);
     background-attachment: fixed ;
     
 }
@@ -8,11 +8,10 @@ body {
 div {
     width: 1000px;
     height: 1500px;
-    background-image: url('bunga.jpg');
+    background-image: url(image/bunga.jpg);
     background-color: salmon;
     background-repeat: no-repeat;
     /* background-position: right top; */
     background-position-x: 50px ;
     background-position-y: 50px ;
 }
-

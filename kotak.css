@@ -7,7 +7,7 @@ table {
     background-color: darkred;
 }
 
-tr:first-child() {
+tr:first-child {
     background-color:rgb(7, 209, 0);
 }
 
